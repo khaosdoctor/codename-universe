@@ -1,0 +1,12 @@
+{
+  "name": "codename-universe",
+  "version": "1.0.0",
+  "description": "Universe bodies names parser for codename",
+  "main": "index.js",
+  "repository": "https://github.com/khaosdoctor/codename-universe.git",
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@khaosdoctor/codename": "^1.0.0"
+  }
+}
